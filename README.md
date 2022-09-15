@@ -6,6 +6,9 @@ laravel-microservices-Api
 <h2>Step-1</h2>
 <p>
 Download all the three folders in your machin, setup them all like comoser update and migrations etc...
+  Set .ENV File
+  ![image](https://user-images.githubusercontent.com/113532935/190386350-106d0ad0-cb6b-4dc6-8483-088ff4b9df08.png)
+
 </p>
 <p>-----------------------------------------------------------------------------------------</p>
 
